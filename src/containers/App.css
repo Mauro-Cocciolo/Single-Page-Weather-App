@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  background-image: url(https://images.pexels.com/photos/159020/sunset-sky-afterglow-evening-sky-159020.jpeg?cs=srgb&dl=pexels-pixabay-159020.jpg&fm=jpg);
+  background-repeat: no-repeat;
+background-size: cover;
+height: 100%;
+min-height: 100vh;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+}
